@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Your-Invoice-is-Ready-for-Viewing00/Your-Invoice-is-Ready-for-Viewing00** is a ✨ _special_ ✨ rep.ository because its `README.md` (this file) appears on your GitHub profile.
+**Your-Invoice-is-Ready-for-Viewing00/Your-Invoice-is-Ready-for-Viewing00** is a ✨ _special_ ✨ rep.ository because its `README.md` (th.is file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
